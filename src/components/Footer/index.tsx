@@ -10,7 +10,7 @@ const Footer = () => (
       <p>
         Desenvolvido por{' '}
         <a href="https://willianjusten.com.br/">Willian Justen </a>e
-        <a href="https://guilouro.dev"> Guilherme Louro</a>
+        <a href="https://guilouro.dev"> Henrique Cunha</a>
       </p>
       <p>
         Design por <a href="https://dribbble.com/vmarcosp">Marcos Oliveira</a>
