@@ -27,7 +27,7 @@ type Image = {
 }
 
 export type Review = {
-  id: NumberConstructor
+  id: number
   name: string
   text: string
   photo: {
